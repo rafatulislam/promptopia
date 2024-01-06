@@ -1,1 +1,1 @@
-Share your AI-powered prompts!
+Share your AI-powered prompts @ https://promptopia-seven-ashen.vercel.app/
